@@ -1,0 +1,2 @@
+# SparkHadoopAlone
+使用Dockerfile搭建hadoop+spark单容器伪分布式服务
